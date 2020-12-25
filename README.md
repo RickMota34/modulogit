@@ -16,4 +16,5 @@ git push origin master.: manda todas as alterações para o github na web.
 git revert --no--edit copia o codigo onde quer voltar: todas as linhas que você alterou volta como era antes
 
 escreve a letra 'q' depois que voce dá um 'git log' e não consegue mais escrever.
-  
+
+git checkout e o nome do branch: serve para mudar o branch que voce está.
