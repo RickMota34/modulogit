@@ -18,3 +18,6 @@ git revert --no--edit copia o codigo onde quer voltar: todas as linhas que você
 escreve a letra 'q' depois que voce dá um 'git log' e não consegue mais escrever.
 
 git checkout e o nome do branch: serve para mudar o branch que voce está.
+
+git branch: serve para eu vizualizar qual o branch que estou usando.
+
