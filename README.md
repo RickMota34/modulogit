@@ -21,3 +21,4 @@ git checkout e o nome do branch que voce quer acessar: serve para mudar o branch
 
 git branch: serve para eu vizualizar qual o branch que estou usando.
 
+git branch + o nome do branch que voce quer criar: para criar um novo branch.
