@@ -12,3 +12,5 @@ git commit -am: serve para escrever todas as alteraçoes que foram feitas.
 git commit -am: adicionar um commit.
 
 git push origin master.: manda todas as alterações para o github na web.
+
+git revert --no--edit copia o codigo onde quer voltar: todas as linhas que você alterou volta como era antes
