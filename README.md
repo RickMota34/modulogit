@@ -25,3 +25,4 @@ git branch + o nome do branch que voce quer criar: para criar um novo branch.
 
 git push origin :+ o nome do branch -> serve para deletar o branch da area remota.
 
+"OBS" para voce deletar um branch da area local vocePrecisa sai dele
