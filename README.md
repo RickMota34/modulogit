@@ -31,3 +31,5 @@ git branch -D + mais o nome do branch que vou deletar: essa tag serve para delet
 
 git pull origin master: serve para puxar tudo que foi adicionado "por outra pessoa" para dentro do seu repositorio local.
 
+"OBS" quando estiver trabalhando em equipe, antes de dar um push é preciso da um pull.
+
