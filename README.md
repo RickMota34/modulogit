@@ -33,3 +33,5 @@ git pull origin master: serve para puxar tudo que foi adicionado "por outra pess
 
 "OBS" quando estiver trabalhando em equipe, antes de dar um push é preciso da um pull.
 
+git clone + a url do projeto que voce quer clonar: desse jeito você copia um projeto para alterar o que voce quiser.
+
