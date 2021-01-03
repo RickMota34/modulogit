@@ -28,3 +28,6 @@ git push origin ":" + o nome do branch -> serve para deletar o branch da area re
 "OBS" para voce deletar um branch da area local vocePrecisa sai dele
 
 git branch -D + mais o nome do branch que vou deletar: essa tag serve para deletar um branch da area local local.
+
+git pull origin master: serve para puxar tudo que foi adicionado "por outra pessoa" para dentro do seu repositorio local.
+
