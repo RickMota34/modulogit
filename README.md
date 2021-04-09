@@ -35,3 +35,5 @@ git pull origin master: serve para puxar tudo que foi adicionado "por outra pess
 
 git clone + a url do projeto que voce quer clonar: desse jeito você copia um projeto para alterar o que voce quiser.
 
+git remote add origin + email do repositorio: para adicionar um novo repositorio.
+
