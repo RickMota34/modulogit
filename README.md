@@ -1,6 +1,5 @@
 meu primeiro sistema no GIT
 
-(uma alteração qualquer)
 git init: inicia um novo repositório.
 
 git status: é para saber tudo que foi feito no sistema.
